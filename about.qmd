@@ -1,8 +1,10 @@
 ---
-title: About
+title: About 
 image: profile.jpg
 about:
   template: jolla
 ---
 
 About this blog
+
+Hello! I'm Kaitlyn, an undergrad at Penn studying Neuroscience and Psychology. Welcome to my little corner for learning and experimenting with large language models (LLMs) through a series of playful prompts, curious questions, and occasional deeper dives. Happy reading! Hope you enjoy the ride as much as I've enjoyed writing it <3 
