@@ -1,5 +1,5 @@
 ---
-title: Coffee, Curiousity, and Chatbots
+title: My Little Talks with AI
 listing:
   contents: posts
   sort: date desc

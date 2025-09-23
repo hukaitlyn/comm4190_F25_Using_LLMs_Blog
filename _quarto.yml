@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Coffee, Curiosity, and Chatbots"
+  title: "Coffee, Curiosity, and Chatbots!"
   navbar:
     right:
       - about.qmd
