@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/index.html</loc>
-    <lastmod>2025-09-23T19:22:11.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2025-09-23T19:22:11.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_post_title/meidcal_knowledge.html</loc>
-    <lastmod>2025-09-23T19:22:11.646Z</lastmod>
-  </url>
-  <url>
     <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/about.html</loc>
-    <lastmod>2025-09-23T19:22:11.644Z</lastmod>
+    <lastmod>2025-11-05T02:20:56.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/index.html</loc>
+    <lastmod>2025-11-05T02:20:56.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hukaitlyn.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_medical_knowledge/medical_knowledge.html</loc>
+    <lastmod>2025-11-05T02:20:56.233Z</lastmod>
   </url>
 </urlset>
