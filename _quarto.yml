@@ -8,8 +8,7 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: [insta](https://www.instagram.com/_kaitlynhu/)
 format:
   html:
     theme: litera
