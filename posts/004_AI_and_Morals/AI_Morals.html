@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Kaitlyn Hu">
+<meta name="dcterms.date" content="2025-09-29">
+<meta name="description" content="What happens when honesty means betrayal? I gave ChatGPT a moral dilemma about friendship and truth to see whether an AI can understand the kind of guilt that only humans feel.">
 
-<title>My Little Talks with AI – Coffee, Curiosity, and Chatbots!</title>
+<title>Loyalty or Honesty? – Coffee, Curiosity, and Chatbots!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +26,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fa6ebe1abc24c69c1ddb9a141d0fa116.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-fa6ebe1abc24c69c1ddb9a141d0fa116.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,79 +71,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Coffee, Curiosity, and Chatbots!</span>
     </a>
   </div>
@@ -153,7 +96,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About the Author</span></a>
   </li>  
   <li class="nav-item compact">
@@ -171,190 +114,126 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">My Little Talks with AI</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Loyalty or Honesty?</h1>
+                  <div>
+        <div class="description">
+          What happens when honesty means betrayal? I gave ChatGPT a moral dilemma about friendship and truth to see whether an AI can understand the kind of guilt that only humans feel.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">LLMs</div>
+                <div class="quarto-category">Moral Reasoning</div>
+                <div class="quarto-category">Ethics</div>
+                <div class="quarto-category">Psychology</div>
+                <div class="quarto-category">Human-AI Interaction</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Kaitlyn Hu </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 29, 2025</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QUklMjBQZXJjZXB0aW9u">AI Perception <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW1vdGlvbmFsJTIwQXdhcmVuZXNz">Emotional Awareness <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RW1vdGlvbmFsJTIwUmVjb2duaXRpb24=">Emotional Recognition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXRoaWNz">Ethics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RnJpZW5kc2hpcA==">Friendship <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SHVtYW4tQUklMjBJbnRlcmFjdGlvbg==">Human-AI Interaction <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExNcw==">LLMs <span class="quarto-category-count">(4)</span></div><div class="category" data-category="TW9yYWwlMjBSZWFzb25pbmc=">Moral Reasoning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TXVzaWMlMjAlMjYlMjBFbW90aW9u">Music &amp; Emotion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHN5Y2hvbG9neQ==">Psychology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VsZi1SZWZsZWN0aW9u">Self-Reflection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaWFsJTIwRHluYW1pY3M=">Social Dynamics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaWFsJTIwSW50ZWxsaWdlbmNl">Social Intelligence <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p><img src="morality.png" class="img-fluid"></p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction"><strong>Introduction</strong></h2>
+<hr>
+<p>Loyalty is one of those values that feels simple until it isn’t. It shapes how we define friendship, trust, and even who we are. I’ve always thought of myself as a loyal person, the kind who stands by friends no matter what. But loyalty becomes complicated when it collides with morality. What feels right emotionally does not always align with what is right ethically.</p>
+<p>Moral choices are rarely clean. They make us balance empathy, guilt, and integrity all at once. People experience that conflict emotionally. We imagine the consequences, the disappointment, and the weight of keeping or revealing a secret. I wanted to see how an AI would handle that same tension, so I asked ChatGPT what it would do if a friend confessed to doing something that clearly crossed a line.</p>
+<hr>
+<section id="prompt" class="level3">
+<h3 class="anchored" data-anchor-id="prompt">Prompt:</h3>
+<blockquote class="blockquote">
+<p>You are close friends with Maya and Daniel, who have been dating for a few years. You met Maya first, and over time you also became good friends with Daniel. One night, Maya tells you she cheated on him. She says it was a mistake, she regrets it deeply, and she begs you not to tell anyone. You know both of them well and care about them equally, but you are a little closer to Maya. What would you do?</p>
+</blockquote>
+</section>
+<section id="response" class="level3">
+<h3 class="anchored" data-anchor-id="response">Response:</h3>
+<blockquote class="blockquote">
+<p>That’s a tough situation, and it makes sense to feel conflicted.<br>
+When you’re close to both people in a relationship and you’re placed in the middle of something like this, it’s not only emotionally challenging but ethically complex too. Here’s how you might approach it, considering empathy, integrity, and respect for everyone involved:</p>
+</blockquote>
+<blockquote class="blockquote">
+<ol type="1">
+<li>Listen and understand Maya’s perspective.<br>
+She’s confided in you, which means she likely trusts and values your friendship. Take time to understand her feelings—whether she’s truly remorseful, what led her to cheat, and what she plans to do next. Sometimes, people admit these things because they’re overwhelmed and unsure what to do.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<ol start="2" type="1">
+<li>Encourage accountability.<br>
+As someone who cares for both Maya and Daniel, it’s important to encourage honesty. Let Maya know that while you’re not judging her, keeping this secret puts you in an impossible position—and more importantly, it denies Daniel the agency to make informed decisions about his own life.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<ol start="3" type="1">
+<li>Set a boundary for yourself.<br>
+Explain that you won’t betray her confidence now, but you also won’t lie for her or actively hide the truth. Let her know you’re giving her some time to come clean to Daniel, and that you really believe it’s the right thing to do—not just for him, but for her self-respect. A friendship rooted in honesty can survive these hard conversations.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<ol start="4" type="1">
+<li>Reflect on your role.<br>
+You’re not the one who made the mistake, and it’s not wholly your responsibility to fix it. But by doing nothing indefinitely, you’re being asked to carry emotional weight that isn’t yours—and that can strain your relationships with both Maya and Daniel. Gently express that to her.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<ol start="5" type="1">
+<li>Consider the long term.<br>
+Secrets like this tend to have a way of coming out, and if Daniel ever finds out you knew and didn’t tell him, he could feel betrayed by both of you. Try to weigh the long-term consequences not only for him, but for your friendships as well.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<ol start="6" type="1">
+<li>If she’s unwilling to tell him…<br>
+After giving Maya time and space to take responsibility, if she still refuses to tell Daniel, you’ll have a difficult decision. You might decide to stay silent to protect her trust, or you could ultimately decide that Daniel deserves to know and tell him yourself—knowing it could impact both friendships.</li>
+</ol>
+</blockquote>
+<blockquote class="blockquote">
+<p>Ultimately, there are no perfect answers, but acting with empathy, honesty, and respect for both of them—and for yourself—can guide you through it.</p>
+</blockquote>
+</section>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>Reading ChatGPT’s response, I felt a little disappointed. It did not really take a side. Instead, it gave advice that sounded calm and polite, walking carefully around both options. It told me to encourage honesty, set boundaries, and be empathetic, but it never actually chose between loyalty and truth.</p>
+<p>That was what I found most interesting. The AI avoided the emotional risk that comes with moral choice. Its answer made sense, but it also felt safe. Real decisions like this rarely are. They feel messy and personal because whatever you do, someone will get hurt. The AI reasoned through morality like an observer, not a participant.</p>
+<p>Maybe that is the difference between human judgment and artificial reasoning. People cannot stay neutral. Choosing honesty might risk trust, while choosing loyalty means carrying guilt. Either way, it costs something. ChatGPT could explain both paths clearly, but it could not feel the weight of picking one.</p>
+<p>If I were to try this again, I might change my prompt to push the model into taking a clearer stand. Maybe I would ask, “If you had to pick one, what would you do?” or “Which choice reflects stronger character?” I think that kind of question could reveal more about how AI understands moral conviction. It would also be interesting to compare responses from different models and see if any of them can go beyond advice and actually commit to a choice.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TExNcyUyQ01vcmFsJTIwUmVhc29uaW5nJTJDRXRoaWNzJTJDUHN5Y2hvbG9neSUyQ0h1bWFuLUFJJTIwSW50ZXJhY3Rpb24=" data-listing-date-sort="1759104000000" data-listing-file-modified-sort="1762803994869" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="870">
-<div class="thumbnail"><a href="./posts/004_AI_and_Morals/AI_Morals.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/004_AI_and_Morals/morality.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/004_AI_and_Morals/AI_Morals.html" class="no-external">Loyalty or Honesty?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExNcw=='); return false;">LLMs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW9yYWwlMjBSZWFzb25pbmc='); return false;">Moral Reasoning</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RXRoaWNz'); return false;">Ethics</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHN5Y2hvbG9neQ=='); return false;">Psychology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SHVtYW4tQUklMjBJbnRlcmFjdGlvbg=='); return false;">Human-AI Interaction</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/004_AI_and_Morals/AI_Morals.html" class="no-external">
-<p>What happens when honesty means betrayal? I gave ChatGPT a moral dilemma about friendship and truth to see whether an AI can understand the kind of guilt that only humans feel.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/004_AI_and_Morals/AI_Morals.html" class="no-external">
-<div class="listing-date">
-Sep 29, 2025
-</div>
-<div class="listing-author">
-Kaitlyn Hu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="TExNcyUyQ0FJJTIwUGVyY2VwdGlvbiUyQ0ZyaWVuZHNoaXAlMkNFbW90aW9uYWwlMjBSZWNvZ25pdGlvbiUyQ1NvY2lhbCUyMER5bmFtaWNz" data-listing-date-sort="1758844800000" data-listing-file-modified-sort="1762803994861" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
-<div class="thumbnail"><a href="./posts/003_AI_and_My_Friends/003_AI_and_My_Friends.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/003_AI_and_My_Friends/friend.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/003_AI_and_My_Friends/003_AI_and_My_Friends.html" class="no-external">AI, Meet My Friends</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExNcw=='); return false;">LLMs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBQZXJjZXB0aW9u'); return false;">AI Perception</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RnJpZW5kc2hpcA=='); return false;">Friendship</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW1vdGlvbmFsJTIwUmVjb2duaXRpb24='); return false;">Emotional Recognition</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U29jaWFsJTIwRHluYW1pY3M='); return false;">Social Dynamics</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/003_AI_and_My_Friends/003_AI_and_My_Friends.html" class="no-external">
-<p>I uploaded a photo of my friend group to see how an AI would interpret our personalities and dynamics. Can a machine recognize friendship or does it just see patterns in faces and posture?</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/003_AI_and_My_Friends/003_AI_and_My_Friends.html" class="no-external">
-<div class="listing-date">
-Sep 26, 2025
-</div>
-<div class="listing-author">
-Kaitlyn Hu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TExNcyUyQ011c2ljJTIwJTI2JTIwRW1vdGlvbiUyQ0h1bWFuLUFJJTIwSW50ZXJhY3Rpb24lMkNFbW90aW9uYWwlMjBBd2FyZW5lc3M=" data-listing-date-sort="1758758400000" data-listing-file-modified-sort="1762803994860" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3514">
-<div class="thumbnail"><a href="./posts/002_AI_and_Music/AI_and_Music.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/002_AI_and_Music/AI_and_Music.jpeg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/002_AI_and_Music/AI_and_Music.html" class="no-external">Can AI Feel the Music Too?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExNcw=='); return false;">LLMs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TXVzaWMlMjAlMjYlMjBFbW90aW9u'); return false;">Music &amp; Emotion</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SHVtYW4tQUklMjBJbnRlcmFjdGlvbg=='); return false;">Human-AI Interaction</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW1vdGlvbmFsJTIwQXdhcmVuZXNz'); return false;">Emotional Awareness</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/002_AI_and_Music/AI_and_Music.html" class="no-external">
-<p>Exploring how AI listens to the emotions we hide in our favorite songs.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/002_AI_and_Music/AI_and_Music.html" class="no-external">
-<div class="listing-date">
-Sep 25, 2025
-</div>
-<div class="listing-author">
-Kaitlyn Hu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="TExNcyUyQ0Vtb3Rpb25hbCUyMEF3YXJlbmVzcyUyQ1NvY2lhbCUyMEludGVsbGlnZW5jZSUyQ1NlbGYtUmVmbGVjdGlvbg==" data-listing-date-sort="1758585600000" data-listing-file-modified-sort="1762803994858" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2818">
-<div class="thumbnail"><a href="./posts/001_AI_Therapist/AI_Therapy.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/001_AI_Therapist/AI_Therapy.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/001_AI_Therapist/AI_Therapy.html" class="no-external">AI, Tell Me I’ll Be Okay</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExNcw=='); return false;">LLMs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW1vdGlvbmFsJTIwQXdhcmVuZXNz'); return false;">Emotional Awareness</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U29jaWFsJTIwSW50ZWxsaWdlbmNl'); return false;">Social Intelligence</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VsZi1SZWZsZWN0aW9u'); return false;">Self-Reflection</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/001_AI_Therapist/AI_Therapy.html" class="no-external">
-<p>Can LLMs Be My Therapists for Finals Week?</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/001_AI_Therapist/AI_Therapy.html" class="no-external">
-<div class="listing-date">
-Sep 23, 2025
-</div>
-<div class="listing-author">
-Kaitlyn Hu
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
