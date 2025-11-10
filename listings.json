@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/005_AI_and_Personality/AI_and_Personality.html",
       "/posts/004_AI_and_Morals/AI_Morals.html",
-      "/posts/003_AI_and_My_Friends/003_AI_and_My_Friends.html",
+      "/posts/003_AI_and_My_Friends/AI_and_My_Friends.html",
       "/posts/002_AI_and_Music/AI_and_Music.html",
       "/posts/001_AI_Therapist/AI_Therapy.html"
     ]
