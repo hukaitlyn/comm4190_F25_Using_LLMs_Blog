@@ -70,13 +70,6 @@
     "text": "Conclusion\nLooking back at all three experiments, I can see how each one built on the last. In the first, Gemini read my playlist like a mirror and somehow managed to describe the emotions behind it in a way that felt warm and human. In the second, it tried to comfort me through music but ended up sounding more general, as if it knew the idea of calm but not what calm feels like to me. By the third, it started getting closer. It learned from my own songs and tried to recommend new ones that matched how I experience emotions.\nWhat surprised me most was how much these small interactions made me think about how I use music in the first place. The songs we listen to really are emotional markers, tiny reflections of who we are in a certain moment. Gemini could understand some of that, but not all of it. The human part is still missing, the one that connects music to memory and meaning.\nStill, there was something special about teaching an AI to listen, not just to sound but to feeling. Even if it cannot fully understand, the process made me pay attention to how I feel, and maybe that is its own kind of understanding."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Little Talks with AI",
-    "section": "",
-    "text": "Can AI Coach an Athlete? My Two-Week Touch Rugby Training Plan\n\n\n\nLLMs\n\nAI Coaching\n\nAthlete Training\n\nSports Performance\n\n\n\nTraining for a three-day touch rugby camp with help from an LLM. This post explores what happens when AI becomes my coach and turns my next two weeks into a focused plan for speed, agility, skill work, and recovery.\n\n\n\n\n\nOct 6, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nColor Me AI\n\n\n\nLLMs\n\nPersonality\n\nAesthetics\n\nPsychology\n\nColor Theory\n\n\n\nI asked ChatGPT to describe my personality in five colors. The result felt simple but strangely fitting.\n\n\n\n\n\nOct 4, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Weekend I Didn’t Plan\n\n\n\nLLMs\n\nPersonality\n\nPsychology\n\nLifestyle\n\n\n\nWhat happens when you let AI decide how you should spend your weekend? I gave it my MBTI and mood and waited to see if it understood me better than I expected.\n\n\n\n\n\nOct 1, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nLoyalty or Honesty?\n\n\n\nLLMs\n\nMoral Reasoning\n\nEthics\n\nPsychology\n\nHuman-AI Interaction\n\n\n\nWhat happens when honesty means betrayal? I gave ChatGPT a moral dilemma about friendship and truth to see whether an AI can understand the kind of guilt that only humans feel.\n\n\n\n\n\nSep 29, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Meet My Friends\n\n\n\nLLMs\n\nAI Perception\n\nFriendship\n\nEmotional Recognition\n\nSocial Dynamics\n\n\n\nI uploaded a photo of my friend group to see how an AI would interpret our personalities and dynamics. Can a machine recognize friendship or does it just see patterns in faces and posture?\n\n\n\n\n\nSep 26, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nCan AI Feel the Music Too?\n\n\n\nLLMs\n\nMusic & Emotion\n\nHuman-AI Interaction\n\nEmotional Awareness\n\n\n\nExploring how AI listens to the emotions we hide in our favorite songs.\n\n\n\n\n\nSep 25, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Tell Me I’ll Be Okay\n\n\n\nLLMs\n\nEmotional Awareness\n\nSocial Intelligence\n\nSelf-Reflection\n\n\n\nCan LLMs Be My Therapists for Finals Week?\n\n\n\n\n\nSep 23, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/003_AI_and_My_Friends/AI_and_My_Friends.html#introduction",
     "href": "posts/003_AI_and_My_Friends/AI_and_My_Friends.html#introduction",
     "title": "AI, Meet My Friends",
@@ -89,6 +82,160 @@
     "title": "AI, Meet My Friends",
     "section": "Reflection",
     "text": "Reflection\nWhen I read the AI’s breakdown, I was surprised by how confident it sounded, like it really knew us. At first, I thought its guesses were random, but some of them actually made sense. The person it called “the leader” was standing in the middle, slightly forward, and wearing a brighter outfit. That probably did make her stand out more, and in psychology, people who take up space or hold the center position are often seen as more dominant or in charge. The friend it labeled “the funny one” had her arms around everyone and was smiling the widest. That kind of body language is usually linked to being outgoing and sociable.\nEven though the AI doesn’t know us, it was picking up on real nonverbal signals, things humans also read without thinking. Psychologists call this “thin-slice perception,” and it explains how we form quick impressions from small visual cues. The difference is that people know their impressions might be wrong, while the AI treats them as facts.\nLooking at its results made me realize how much body language shapes the stories we tell about people. In some ways, the AI wasn’t completely off. The calm posture, the open smile, the center of attention—it all reflects something real, but not the whole truth. It could see the patterns, but it couldn’t see the friendships behind them."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Little Talks with AI",
+    "section": "",
+    "text": "Can Better Propmting Make AI a Better Coach? My Second Experiment\n\n\n\nLLMs\n\nAI Coaching\n\nAthlete Training\n\nSports Performance\n\n\n\nExploring how a redesigned, more coach-like prompt changes the way an LLM plans my touch rugby training.\n\n\n\n\n\nOct 8, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nCan AI Coach an Athlete? My Two-Week Touch Rugby Training Plan\n\n\n\nLLMs\n\nAI Coaching\n\nAthlete Training\n\nSports Performance\n\n\n\nTraining for a three-day touch rugby camp with help from an LLM. This post explores what happens when AI becomes my coach and turns my next two weeks into a focused plan for speed, agility, skill work, and recovery.\n\n\n\n\n\nOct 6, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nColor Me AI\n\n\n\nLLMs\n\nPersonality\n\nAesthetics\n\nPsychology\n\nColor Theory\n\n\n\nI asked ChatGPT to describe my personality in five colors. The result felt simple but strangely fitting.\n\n\n\n\n\nOct 4, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Weekend I Didn’t Plan\n\n\n\nLLMs\n\nPersonality\n\nPsychology\n\nLifestyle\n\n\n\nWhat happens when you let AI decide how you should spend your weekend? I gave it my MBTI and mood and waited to see if it understood me better than I expected.\n\n\n\n\n\nOct 1, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nLoyalty or Honesty?\n\n\n\nLLMs\n\nMoral Reasoning\n\nEthics\n\nPsychology\n\nHuman-AI Interaction\n\n\n\nWhat happens when honesty means betrayal? I gave ChatGPT a moral dilemma about friendship and truth to see whether an AI can understand the kind of guilt that only humans feel.\n\n\n\n\n\nSep 29, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Meet My Friends\n\n\n\nLLMs\n\nAI Perception\n\nFriendship\n\nEmotional Recognition\n\nSocial Dynamics\n\n\n\nI uploaded a photo of my friend group to see how an AI would interpret our personalities and dynamics. Can a machine recognize friendship or does it just see patterns in faces and posture?\n\n\n\n\n\nSep 26, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nCan AI Feel the Music Too?\n\n\n\nLLMs\n\nMusic & Emotion\n\nHuman-AI Interaction\n\nEmotional Awareness\n\n\n\nExploring how AI listens to the emotions we hide in our favorite songs.\n\n\n\n\n\nSep 25, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Tell Me I’ll Be Okay\n\n\n\nLLMs\n\nEmotional Awareness\n\nSocial Intelligence\n\nSelf-Reflection\n\n\n\nCan LLMs Be My Therapists for Finals Week?\n\n\n\n\n\nSep 23, 2025\n\n\nKaitlyn Hu\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#introduction",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#introduction",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Introduction",
+    "text": "Introduction\n\nIn my first post, I asked an LLM to design a two-week training plan for my touch rugby camp. The plan was well structured and covered everything from conditioning to ball-handling, but it was also built without any real understanding of who I am as an athlete. It didn’t ask about my schedule, my position, my strengths and weaknesses, or whether I had any injuries. A real coach wouldn’t design a program without asking those things first.\nFor this follow-up post, I wanted to see whether I could make the AI behave more like an actual coach by changing the prompt. I used a more structured approach based on prompting techniques that focus on giving the AI a defined role, a clear process, and the instruction to ask questions before producing anything. This mirrors the way coaches gather information before building a training plan.\n\nHow I Rewrote the Prompt\nTo redesign the prompt, I followed ideas that come from prompt experts like Ethan Mollick and from general research on structured prompting. Instead of asking the AI for a plan directly, I broke the request into clear phases that a real coach would follow.\nFirst, I gave the model a defined role by telling it to act as a high-performance touch rugby coach. This helps the AI adjust its tone, structure, and level of detail.\nSecond, I required a one-question-at-a-time intake process. This forces the AI to personalize the plan and prevents it from skipping to generic answers.\nThird, I told it which specific categories it needed to ask about, including conditioning, sprint speed, ball-handling ability, injury history, available training time, and equipment access. Without this step, AI tends to guess or assume.\nFourth, I asked it to summarize its understanding of me before creating the plan. This clarifies how well it interpreted my answers.\nFinally, I required the training plan to directly reflect my responses. This prevents the AI from giving me a random template and makes it build something that actually fits my life.\nBy structuring the prompt this way, I was essentially teaching the AI to behave less like a search engine and more like an actual coach who listens first and designs second. The next section shows the exact prompt I used."
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#the-improved-prompt",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#the-improved-prompt",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "The Improved Prompt:",
+    "text": "The Improved Prompt:\n\nYou are a high-performance touch rugby coach helping me prepare for a three-day camp from eight in the morning to four in the afternoon. Follow this process. First, ask me one question at a time to collect at least ten specific details about my fitness level, sprint ability, conditioning base, ball-handling level, touch rugby experience and position, injury history, weekly schedule, recovery habits, equipment access, and goals. Second, summarize your understanding of me as an athlete. Third, create a fully personalized two-week training plan that directly reflects my answers. The plan should include conditioning, agility, sprint work, ball-handling, strength and stability, recovery practices, nutrition, hydration, and mental preparation for decision-making and game awareness. Fourth, ask if I want adjustments. Do not skip steps. Do not begin the plan until your assessment is complete."
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#what-the-ai-asked-me",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#what-the-ai-asked-me",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "What the AI Asked Me",
+    "text": "What the AI Asked Me\nTo keep everything clean, each question is formatted as a quote.\n\nQuestion 1: What is your current fitness level — for example, how many times per week do you work out, and what types of training are you doing right now?\n\n\nQuestion 2: How would you describe your sprinting ability right now? Are you explosive off the mark? Do you sustain high effort over short distances? How often do you do sprint work?\n\n\nQuestion 3: What is your current conditioning base like? Can you handle repeated high-intensity efforts?\n\n\nQuestion 4: How would you rate your current ball-handling skills (passing accuracy, catching under pressure, speed of execution)?\n\n\nQuestion 5: How much experience do you have in touch rugby? What position do you usually play?\n\n\nQuestion 6: Do you have any current or past injuries affecting you?\n\n\nQuestion 7: What does your typical weekly schedule look like? How many days can you realistically train?\n\n\nQuestion 8: What do your recovery habits look like? Sleep, stretching, mobility, hydration?\n\n\nQuestion 9: What equipment and facilities do you have access to?\n\n\nQuestion 10: What are your specific goals for this camp?"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#my-answers",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#my-answers",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "My Answers",
+    "text": "My Answers\nThis section is formatted the same way—clean and easy to read.\n\nAnswer 1: I work out 2–4 times a week in the gym or sometimes run a few miles outside.\n\n\nAnswer 2: Yes, explosive off the mark. I can sustain effort over short distances but not long ones. I rarely do sprint work unless I’m preparing for competitions.\n\n\nAnswer 3: Historically, my fitness hasn’t always been the best. I can handle games, but intense sessions tire me out quickly.\n\n\nAnswer 4: Catching is fine. I want to improve my passing accuracy and speed.\n\n\nAnswer 5: I’ve played touch for 7–9 years. I usually play middle or link.\n\n\nAnswer 6: Tore my ACL 5 years ago and pulled my hamstring last year. My ankles are usually weak and need attention.\n\n\nAnswer 7: Realistically 3–5 days. I can train in the morning or after class.\n\n\nAnswer 8: I get enough sleep but should stretch and foam roll more. I don’t do cold/hot therapy unless I’m injured.\n\n\nAnswer 9: Gym and grass field.\n\n\nAnswer 10: All of the above: improve fitness, stand out, refine skills, and build confidence."
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#ais-summary-of-me-as-an-athlete",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#ais-summary-of-me-as-an-athlete",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "AI’s Summary of Me as an Athlete",
+    "text": "AI’s Summary of Me as an Athlete\nYou’ve played touch rugby for 7–9 years, primarily at middle or link. You’re explosive off the mark and skilled, but your conditioning and sprint repeatability need work. Passing accuracy and speed are areas you want to improve. Past injuries include an ACL tear, a hamstring strain, and ankle instability, so joint stability and smart recovery are priorities.\n\nYou currently work out 2–4 times per week and can commit 3–5 sessions in the next two weeks. You have access to a gym and a grass field. You sleep well but want to improve mobility and recovery practices. Your goals include improving fitness, sharpening skills, boosting confidence, and standing out at camp."
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#the-new-training-plan",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#the-new-training-plan",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "The New Training Plan",
+    "text": "The New Training Plan\n\nOverview\nWeekly Commitment: 3–5 sessions Session Length: 60–90 minutes Targets: Conditioning base, anaerobic repeatability, agility, sprint exposure, passing, joint stability, core strength, recovery, hydration, resilience"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-1-field-skill-75-min",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-1-field-skill-75-min",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 1 — Field + Skill (75 min)",
+    "text": "Day 1 — Field + Skill (75 min)\nGoal: Speed exposure, lateral movement, fundamental passing • Dynamic warm-up • Sprint mechanics + agility • Passing under load • Conditioning intervals • Cooldown Nutrition: 20–30g protein post Hydration: 2–3 L/day + electrolytes"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-2-gym-lower-stability-75-min",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-2-gym-lower-stability-75-min",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 2 — Gym: Lower + Stability (75 min)",
+    "text": "Day 2 — Gym: Lower + Stability (75 min)\nGoal: Glutes, hamstrings, ankle/knee stability • Warm-up • Strength block • Stability and core • Mobility cooldown Sleep: 7.5 hours minimum"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-3-field-anaerobic-repeat-passing-70-min",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-3-field-anaerobic-repeat-passing-70-min",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 3 — Field: Anaerobic Repeat + Passing (70 min)",
+    "text": "Day 3 — Field: Anaerobic Repeat + Passing (70 min)\n• Warm-up • Repeat sprint conditioning • Ball-handling flow • Cooldown Mental Prep: Visualize camp scenarios"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-4-active-recovery-optional",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-4-active-recovery-optional",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 4 — Active Recovery (Optional)",
+    "text": "Day 4 — Active Recovery (Optional)\nLight jog, cycle, foam roll, mobility, breathing reset"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-5-gym-uppertotal-body",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-5-gym-uppertotal-body",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 5 — Gym: Upper/Total Body",
+    "text": "Day 5 — Gym: Upper/Total Body\nPush–pull circuits, med ball work, shoulder stability"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-6-game-prep-positional-focus",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-6-game-prep-positional-focus",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 6 — Game Prep / Positional Focus",
+    "text": "Day 6 — Game Prep / Positional Focus\n3v3 touch scenarios, defense resets, dump options, agility reps"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-7-off-or-mobility-flow",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-7-off-or-mobility-flow",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 7 — Off or Mobility Flow",
+    "text": "Day 7 — Off or Mobility Flow\nEasy day, stretch, hydrate, refuel"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-1-field",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-1-field",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 1 — Field",
+    "text": "Day 1 — Field\nTouch simulation, sprint fade passes, tempo play, mini games"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-2-gym-power",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-2-gym-power",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 2 — Gym: Power",
+    "text": "Day 2 — Gym: Power\nJump squats, cleans (if confident), Nordic curls, ankle/neck prehab"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-3-lactate-session-field",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-3-lactate-session-field",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 3 — Lactate Session (Field)",
+    "text": "Day 3 — Lactate Session (Field)\n30s shuttles with 15s rest Game-vision drills"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-4-recovery-day",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-4-recovery-day",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 4 — Recovery Day",
+    "text": "Day 4 — Recovery Day\nSauna or contrast Deep stretching"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-5-final-touch-sharpener",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-5-final-touch-sharpener",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 5 — Final Touch Sharpener",
+    "text": "Day 5 — Final Touch Sharpener\nWarm-up, shadow defense, passing under fatigue, mini continuous games"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-6-off-day",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-6-off-day",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 6 — Off Day",
+    "text": "Day 6 — Off Day\nHydrate, eat well, early sleep"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-7-mental-rehearsal",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#day-7-mental-rehearsal",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Day 7 — Mental Rehearsal",
+    "text": "Day 7 — Mental Rehearsal\nLight movement, 3 sprints at 70 percent Visualization and confidence cues"
+  },
+  {
+    "objectID": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#reflection",
+    "href": "posts/008_AI_Trainer_prt2/AI_Trainer_prt.2.html#reflection",
+    "title": "Can Better Propmting Make AI a Better Coach? My Second Experiment",
+    "section": "Reflection:",
+    "text": "Reflection:\nComparing this plan to the one from my first post, the main difference is how specific it is. The earlier plan covered everything a typical touch rugby program would include, but it was clearly built without much understanding of me as an athlete. It did not account for my position, my conditioning level, or my injury history. It worked as a general outline, but not something I would realistically follow as a full training schedule.\nWith the new prompt, the AI took the time to ask questions first, and that made the final plan feel more relevant. The conditioning matches where I am right now. The stability work makes sense for my ACL and ankle history. The skill work reflects what I want to improve. The weekly structure also fits the amount of time I can actually train.\nThere are still parts that feel overstructured, and it is not the same as working with a real coach who adjusts things based on how I feel that day. Even so, this version is more useful and more realistic. The improvement came from giving clearer instructions and requiring the AI to gather information before creating anything. If I use AI again for training ideas, this is the approach I would use."
   },
   {
     "objectID": "posts/004_AI_and_Morals/AI_Morals.html#introduction",
